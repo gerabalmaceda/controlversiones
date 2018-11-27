@@ -1,0 +1,31 @@
+body {
+    background-image: url('../img/dark_embroidery.png ');
+}
+.jumbotron {
+    background-color: #D41942;
+    color: white;
+   
+    
+}
+.panel-heading {
+    background-color: #D41942 !important;
+    color: white !important;
+}
+.panel-body {
+    color: #2b2b2b !important;
+}
+.navbar {
+    background-color: #2b2b2b;
+}
+.navbar-brand:link, .navbar-brand:visited {
+    color: #D41942 !important;
+}
+.navbar-brand:hover, .navbar-brand:active{
+    color: white !important;
+}
+#navbar li a:link, #navbar li a:visited {
+ color: white !important;   
+}
+#navbar li a:hover, #navbar li a:active {
+color: #D41942
+}
